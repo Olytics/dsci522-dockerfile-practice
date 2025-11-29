@@ -1,0 +1,9 @@
+name: docker-practice
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - python=3.11
+  - altair
+  - pandas
+prefix: /home/purity/miniforge3/envs/docker-practice
